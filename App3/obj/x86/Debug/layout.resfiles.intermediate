@@ -1,6 +1,18 @@
 WinMetadata\Windows.winmd
 ApplicationInsights.config
 Assets\LockScreenLogo.scale-200.png
+Assets\photos\BramkaAND.PNG
+Assets\photos\BramkaNAND.PNG
+Assets\photos\BramkaNOR.PNG
+Assets\photos\BramkaNOT.PNG
+Assets\photos\BramkaOR.PNG
+Assets\photos\BramkaXOR.PNG
+Assets\photos\Tablice AND.PNG
+Assets\photos\Tablice NAND.PNG
+Assets\photos\Tablice NOR.PNG
+Assets\photos\Tablice NOT.PNG
+Assets\photos\Tablice OR.PNG
+Assets\photos\Tablice XOR.PNG
 Assets\SplashScreen.scale-200.png
 Assets\Square150x150Logo.scale-200.png
 Assets\Square44x44Logo.scale-200.png

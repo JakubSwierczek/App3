@@ -31,5 +31,10 @@ namespace App3
         {
             this.Frame.GoBack();
         }
+
+        private void nameTextBlock_SizeChanged(object sender, SizeChangedEventArgs e)
+        {
+
+        }
     }
 }

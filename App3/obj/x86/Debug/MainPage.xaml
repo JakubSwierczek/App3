@@ -8,10 +8,10 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <TextBlock x:ConnectionId='1' x:Name="title" HorizontalAlignment="Center" Margin="29,20,28,0" TextWrapping="Wrap" Text="Theory of Logical Curcuit" FontSize="48" VerticalAlignment="Top" TextAlignment="Center" FontFamily="Times New Roman"/>
-        <Button x:ConnectionId='2' x:Name="theoryButton" Content="Theory" HorizontalAlignment="Center" Margin="29,201,0,0" VerticalAlignment="Top" Height="75" Width="303" FontSize="48" FontFamily="Times New Roman"                                                        />
-        <Button x:ConnectionId='3' x:Name="quizButton" Content="Quiz" HorizontalAlignment="Center" Margin="29,309,0,0" VerticalAlignment="Top" Height="75" Width="303" FontSize="48" FontFamily="Times New Roman"/>
-        <Button x:ConnectionId='4' x:Name="quitButton" Content="Quit" HorizontalAlignment="Center" Margin="29,417,0,0" VerticalAlignment="Top" Height="75" Width="303" FontSize="48" FontFamily="Times New Roman"                         />
+        <TextBlock x:ConnectionId='1' x:Name="title" HorizontalAlignment="Center" Margin="85,20,84,0" TextWrapping="Wrap" Text="Theory of Logical Circuits" FontSize="48" VerticalAlignment="Top" TextAlignment="Center" FontFamily="Times New Roman"/>
+        <Button x:ConnectionId='2' x:Name="theoryButton" Content="Theory" HorizontalAlignment="Center" Margin="31,201,26,0" VerticalAlignment="Top" Height="75" Width="303" FontSize="48" FontFamily="Times New Roman"                                                        />
+        <Button x:ConnectionId='3' x:Name="quizButton" Content="Quiz" HorizontalAlignment="Center" Margin="31,309,26,0" VerticalAlignment="Top" Height="75" Width="303" FontSize="48" FontFamily="Times New Roman"/>
+        <Button x:ConnectionId='4' x:Name="quitButton" Content="Quit" HorizontalAlignment="Center" Margin="31,417,26,0" VerticalAlignment="Top" Height="75" Width="303" FontSize="48" FontFamily="Times New Roman"                         />
 
     </Grid>
 </Page>

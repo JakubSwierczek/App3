@@ -40,6 +40,7 @@
       <RootEvent Name="Tapped" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="Source" />
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="Height" />
       <RootProperty Name="Margin" />
@@ -57,6 +58,7 @@
       <RootProperty Name="TextAlignment" />
       <RootProperty Name="FontFamily" />
       <RootProperty Name="Height" />
+      <RootEvent Name="SizeChanged" />
     </RootType>
     <RootType FullName="App3.AND" />
     <RootType FullName="App3.MainPage" />

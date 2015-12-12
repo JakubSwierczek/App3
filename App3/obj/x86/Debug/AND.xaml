@@ -7,16 +7,17 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <Grid HorizontalAlignment="Left" Height="620" Margin="10,0,0,10" VerticalAlignment="Bottom" Width="340">
+        <Grid HorizontalAlignment="Center" Height="620" Margin="15,0,5,10" VerticalAlignment="Bottom" Width="340">
             <Grid.RowDefinitions>
                 <RowDefinition Height="102*"/>
                 <RowDefinition Height="245*"/>
                 <RowDefinition Height="273*"/>
             </Grid.RowDefinitions>
             <Button x:ConnectionId='1' x:Name="backButton" Content="BACK" HorizontalAlignment="Center" Margin="73,199,81,0" Grid.Row="2" VerticalAlignment="Top" Width="186" Height="32"                         />
-            <Image x:ConnectionId='2' x:Name="schemat" HorizontalAlignment="Left" Height="214" Margin="10,0,0,0" VerticalAlignment="Top" Width="320" Grid.Row="2"/>
-            <Image x:ConnectionId='3' x:Name="siatka" HorizontalAlignment="Left" Height="225" Margin="10,10,0,0" VerticalAlignment="Top" Width="320" Grid.Row="1"/>
-            <TextBlock x:ConnectionId='4' x:Name="nameTextBlock" HorizontalAlignment="Center" Margin="10,18,10,0" TextWrapping="Wrap" Text="Bramka AND" VerticalAlignment="Top" FontSize="48" Width="320" TextAlignment="Center" Grid.RowSpan="2"/>
+            <Image x:ConnectionId='2' x:Name="schemat" Source="Assets\photos\Tablice AND.PNG" HorizontalAlignment="Center" Height="184" Margin="45,10,51,0" VerticalAlignment="Top" Width="244" Grid.Row="2"/>
+            <Image x:ConnectionId='3' x:Name="siatka" Source="Assets\photos\BramkaAND.PNG" HorizontalAlignment="Center" Height="235" Margin="15,0,10,0" VerticalAlignment="Top" Width="315" Grid.Row="1"/>
+            <TextBlock x:ConnectionId='4' x:Name="nameTextBlock" HorizontalAlignment="Center" Margin="10,18,10,0" TextWrapping="Wrap" Text="AND Gate" VerticalAlignment="Top" FontSize="48" Width="320" TextAlignment="Center" Grid.RowSpan="2"/>
+
         </Grid>
     </Grid>
 

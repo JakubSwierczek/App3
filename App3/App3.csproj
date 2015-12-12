@@ -131,6 +131,18 @@
     <None Include="App3_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\photos\BramkaAND.PNG" />
+    <Content Include="Assets\photos\BramkaNAND.PNG" />
+    <Content Include="Assets\photos\BramkaNOR.PNG" />
+    <Content Include="Assets\photos\BramkaNOT.PNG" />
+    <Content Include="Assets\photos\BramkaOR.PNG" />
+    <Content Include="Assets\photos\BramkaXOR.PNG" />
+    <Content Include="Assets\photos\Tablice AND.PNG" />
+    <Content Include="Assets\photos\Tablice NAND.PNG" />
+    <Content Include="Assets\photos\Tablice NOR.PNG" />
+    <Content Include="Assets\photos\Tablice NOT.PNG" />
+    <Content Include="Assets\photos\Tablice OR.PNG" />
+    <Content Include="Assets\photos\Tablice XOR.PNG" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />

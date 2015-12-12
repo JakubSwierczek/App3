@@ -30,6 +30,42 @@
     <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\photos\BramkaAND.PNG">
+      <PackagePath>Assets\photos\BramkaAND.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\photos\BramkaNAND.PNG">
+      <PackagePath>Assets\photos\BramkaNAND.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\photos\BramkaNOR.PNG">
+      <PackagePath>Assets\photos\BramkaNOR.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\photos\BramkaNOT.PNG">
+      <PackagePath>Assets\photos\BramkaNOT.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\photos\BramkaOR.PNG">
+      <PackagePath>Assets\photos\BramkaOR.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\photos\BramkaXOR.PNG">
+      <PackagePath>Assets\photos\BramkaXOR.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\photos\Tablice AND.PNG">
+      <PackagePath>Assets\photos\Tablice AND.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\photos\Tablice NAND.PNG">
+      <PackagePath>Assets\photos\Tablice NAND.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\photos\Tablice NOR.PNG">
+      <PackagePath>Assets\photos\Tablice NOR.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\photos\Tablice NOT.PNG">
+      <PackagePath>Assets\photos\Tablice NOT.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\photos\Tablice OR.PNG">
+      <PackagePath>Assets\photos\Tablice OR.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\photos\Tablice XOR.PNG">
+      <PackagePath>Assets\photos\Tablice XOR.PNG</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>

@@ -8,16 +8,16 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <Grid HorizontalAlignment="Left" Height="620" Margin="10,0,0,10" VerticalAlignment="Bottom" Width="340">
+        <Grid HorizontalAlignment="Center" Height="620" Margin="10,0,0,10" VerticalAlignment="Bottom" Width="340">
             <Grid.RowDefinitions>
-                <RowDefinition Height="102*"/>
-                <RowDefinition Height="245*"/>
-                <RowDefinition Height="273*"/>
+                <RowDefinition Height="51*"/>
+                <RowDefinition Height="100*"/>
+                <RowDefinition Height="159*"/>
             </Grid.RowDefinitions>
             <Button x:Name="backButton" Content="BACK" HorizontalAlignment="Center" Margin="73,219,81,0" Grid.Row="2" VerticalAlignment="Top" Width="186" Height="32" Click="backButton_Click"/>
-            <Image x:Name="schemat" HorizontalAlignment="Left" Height="214" Margin="10,0,0,0" VerticalAlignment="Top" Width="320" Grid.Row="2"/>
-            <Image x:Name="siatka" HorizontalAlignment="Left" Height="225" Margin="10,10,0,0" VerticalAlignment="Top" Width="320" Grid.Row="1"/>
-            <TextBlock x:Name="nameTextBlock" HorizontalAlignment="Center" Margin="10,18,10,0" TextWrapping="Wrap" Text="Bramka NOR" VerticalAlignment="Top" FontSize="48" Width="320" TextAlignment="Center" Grid.RowSpan="2"/>
+            <Image x:Name="schemat" Source="Assets\photos\BramkaNOR.PNG" HorizontalAlignment="Center" Height="182" Margin="43,20,12,0" VerticalAlignment="Top" Width="285" Grid.Row="1" Grid.RowSpan="2"/>
+            <Image x:Name="siatka" Source="Assets\photos\Tablice NOR.PNG" HorizontalAlignment="Center" Height="180" Margin="31,20,50,0" VerticalAlignment="Top" Width="259" Grid.Row="2"/>
+            <TextBlock x:Name="nameTextBlock" HorizontalAlignment="Center" Margin="10,18,10,0" TextWrapping="Wrap" Text="NOR Gate" VerticalAlignment="Top" FontSize="48" Width="320" TextAlignment="Center" Height="64"/>
         </Grid>
 
     </Grid>
