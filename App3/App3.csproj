@@ -104,6 +104,11 @@
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\20151212105516_MigrationFirst.cs" />
+    <Compile Include="Migrations\20151212105516_MigrationFirst.designer.cs">
+      <DependentUpon>20151212105516_MigrationFirst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\QuestionContextModelSnapshot.cs" />
     <Compile Include="NAND.xaml.cs">
       <DependentUpon>NAND.xaml</DependentUpon>
     </Compile>
@@ -117,6 +122,8 @@
       <DependentUpon>OR.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Question.cs" />
+    <Compile Include="QuestionContext.cs" />
     <Compile Include="SecondMenu.xaml.cs">
       <DependentUpon>SecondMenu.xaml</DependentUpon>
     </Compile>
