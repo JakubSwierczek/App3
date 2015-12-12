@@ -26,5 +26,20 @@ namespace App3
         {
             this.InitializeComponent();
         }
+
+        private void theoryButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(SecondMenu));
+        }
+
+        private void theoryButton_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(SecondMenu));
+        }
+
+        private void quitButton_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Exit();
+        }
     }
 }

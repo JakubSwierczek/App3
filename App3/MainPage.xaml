@@ -9,9 +9,9 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <TextBlock x:Name="title" HorizontalAlignment="Center" Margin="29,20,28,0" TextWrapping="Wrap" Text="Theory of Logical Curcuit" FontSize="48" VerticalAlignment="Top" TextAlignment="Center" FontFamily="Times New Roman"/>
-        <Button x:Name="theoryButton" Content="Theory" HorizontalAlignment="Left" Margin="29,201,0,0" VerticalAlignment="Top" Height="75" Width="303" FontSize="48" FontFamily="Times New Roman"/>
-        <Button x:Name="quizButton" Content="Quiz" HorizontalAlignment="Left" Margin="29,309,0,0" VerticalAlignment="Top" Height="75" Width="303" FontSize="48" FontFamily="Times New Roman"/>
-        <Button x:Name="quitButton" Content="Quit" HorizontalAlignment="Left" Margin="29,417,0,0" VerticalAlignment="Top" Height="75" Width="303" FontSize="48" FontFamily="Times New Roman"/>
+        <Button x:Name="theoryButton" Content="Theory" HorizontalAlignment="Center" Margin="29,201,0,0" VerticalAlignment="Top" Height="75" Width="303" FontSize="48" FontFamily="Times New Roman" Click="theoryButton_Click" Tapped="theoryButton_Tapped"/>
+        <Button x:Name="quizButton" Content="Quiz" HorizontalAlignment="Center" Margin="29,309,0,0" VerticalAlignment="Top" Height="75" Width="303" FontSize="48" FontFamily="Times New Roman"/>
+        <Button x:Name="quitButton" Content="Quit" HorizontalAlignment="Center" Margin="29,417,0,0" VerticalAlignment="Top" Height="75" Width="303" FontSize="48" FontFamily="Times New Roman" Click="quitButton_Click"/>
 
     </Grid>
 </Page>
