@@ -22,13 +22,13 @@
     <AppXManifest Include="C:\Users\jakub\OneDrive\Development\Visual Studio 2015\Projects\NOTLD2015\OrganizerApp\App3\App3\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-12-12T10:56:35.154</Modified>
+      <Modified>2015-12-12T11:56:37.271</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\jakub\OneDrive\Development\Visual Studio 2015\Projects\NOTLD2015\OrganizerApp\App3\App3\bin\x86\Debug\App3.exe">
       <PackagePath>entrypoint\App3.exe</PackagePath>
-      <Modified>2015-12-12T10:56:34.283</Modified>
+      <Modified>2015-12-12T11:56:36.828</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jakub\.nuget\packages\EntityFramework.Core\7.0.0-rc1-final\lib\netcore50\EntityFramework.Core.dll">
       <PackagePath>EntityFramework.Core.dll</PackagePath>
@@ -606,11 +606,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jakub\OneDrive\Development\Visual Studio 2015\Projects\NOTLD2015\OrganizerApp\App3\App3\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-12-12T10:56:34.924</Modified>
+      <Modified>2015-12-12T11:47:09.326</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jakub\OneDrive\Development\Visual Studio 2015\Projects\NOTLD2015\OrganizerApp\App3\App3\bin\x86\Debug\Core\App3.exe">
       <PackagePath>App3.exe</PackagePath>
-      <Modified>2015-12-12T10:56:35.151</Modified>
+      <Modified>2015-12-12T11:56:37.265</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

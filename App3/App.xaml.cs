@@ -34,6 +34,7 @@ namespace App3
                 Microsoft.ApplicationInsights.WindowsCollectors.Session);
             this.InitializeComponent();
             this.Suspending += OnSuspending;
+
         }
 
         /// <summary>
