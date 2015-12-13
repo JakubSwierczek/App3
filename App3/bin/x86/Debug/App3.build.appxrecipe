@@ -66,6 +66,24 @@
     <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\photos\Tablice XOR.PNG">
       <PackagePath>Assets\photos\Tablice XOR.PNG</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice AND.png">
+      <PackagePath>Assets\quiz\Tablice AND.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice NAND.png">
+      <PackagePath>Assets\quiz\Tablice NAND.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice NOR.png">
+      <PackagePath>Assets\quiz\Tablice NOR.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice NOT.png">
+      <PackagePath>Assets\quiz\Tablice NOT.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice OR.png">
+      <PackagePath>Assets\quiz\Tablice OR.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice XOR.png">
+      <PackagePath>Assets\quiz\Tablice XOR.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>

@@ -22,17 +22,17 @@
     <AppXManifest Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-12-12T11:46:26.416</Modified>
+      <Modified>2015-12-12T13:22:10.167</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\App3.exe">
       <PackagePath>App3.exe</PackagePath>
-      <Modified>2015-12-12T11:46:26.413</Modified>
+      <Modified>2015-12-12T13:22:10.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\App3.xr.xml">
       <PackagePath>App3.xr.xml</PackagePath>
-      <Modified>2015-12-12T11:16:31.453</Modified>
+      <Modified>2015-12-12T12:45:52.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
@@ -90,6 +90,30 @@
       <PackagePath>Assets\photos\Tablice XOR.PNG</PackagePath>
       <Modified>2015-12-12T09:54:20.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice AND.png">
+      <PackagePath>Assets\quiz\Tablice AND.png</PackagePath>
+      <Modified>2015-12-12T09:57:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice NAND.png">
+      <PackagePath>Assets\quiz\Tablice NAND.png</PackagePath>
+      <Modified>2015-12-12T09:58:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice NOR.png">
+      <PackagePath>Assets\quiz\Tablice NOR.png</PackagePath>
+      <Modified>2015-12-12T09:58:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice NOT.png">
+      <PackagePath>Assets\quiz\Tablice NOT.png</PackagePath>
+      <Modified>2015-12-12T09:58:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice OR.png">
+      <PackagePath>Assets\quiz\Tablice OR.png</PackagePath>
+      <Modified>2015-12-12T09:59:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice XOR.png">
+      <PackagePath>Assets\quiz\Tablice XOR.png</PackagePath>
+      <Modified>2015-12-12T09:59:38.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -126,7 +150,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\entrypoint\App3.exe">
       <PackagePath>entrypoint\App3.exe</PackagePath>
-      <Modified>2015-12-12T11:46:24.011</Modified>
+      <Modified>2015-12-12T13:22:08.988</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -158,7 +182,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-12-12T11:46:25.469</Modified>
+      <Modified>2015-12-12T13:19:32.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>

@@ -119,9 +119,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Question.cs" />
     <Compile Include="QuestionContext.cs" />
+    <Compile Include="QUIZ.xaml.cs">
+      <DependentUpon>QUIZ.xaml</DependentUpon>
+    </Compile>
     <Compile Include="SecondMenu.xaml.cs">
       <DependentUpon>SecondMenu.xaml</DependentUpon>
     </Compile>
+    <Compile Include="System\Windows\Forms.cs" />
     <Compile Include="XOR.xaml.cs">
       <DependentUpon>XOR.xaml</DependentUpon>
     </Compile>
@@ -145,6 +149,12 @@
     <Content Include="Assets\photos\Tablice NOT.PNG" />
     <Content Include="Assets\photos\Tablice OR.PNG" />
     <Content Include="Assets\photos\Tablice XOR.PNG" />
+    <Content Include="Assets\quiz\Tablice AND.png" />
+    <Content Include="Assets\quiz\Tablice NAND.png" />
+    <Content Include="Assets\quiz\Tablice NOR.png" />
+    <Content Include="Assets\quiz\Tablice NOT.png" />
+    <Content Include="Assets\quiz\Tablice OR.png" />
+    <Content Include="Assets\quiz\Tablice XOR.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
@@ -180,6 +190,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="OR.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="QUIZ.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

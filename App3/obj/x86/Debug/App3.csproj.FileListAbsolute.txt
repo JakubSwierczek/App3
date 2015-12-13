@@ -493,3 +493,20 @@ C:\Users\gurbi\Desktop\App3\App3\obj\x86\Debug\Core\Assets\photos\Tablice NOR.PN
 C:\Users\gurbi\Desktop\App3\App3\obj\x86\Debug\Core\Assets\photos\Tablice NOT.PNG
 C:\Users\gurbi\Desktop\App3\App3\obj\x86\Debug\Core\Assets\photos\Tablice OR.PNG
 C:\Users\gurbi\Desktop\App3\App3\obj\x86\Debug\Core\Assets\photos\Tablice XOR.PNG
+C:\Users\gurbi\Desktop\App3\App3\obj\x86\Debug\QUIZ.g.i.cs
+C:\Users\gurbi\Desktop\App3\App3\obj\x86\Debug\QUIZ.g.cs
+C:\Users\gurbi\Desktop\App3\App3\obj\x86\Debug\QUIZ.xaml
+C:\Users\gurbi\Desktop\App3\App3\obj\x86\Debug\QUIZ.xbf
+C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\QUIZ.xbf
+C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice AND.png
+C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice NAND.png
+C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice NOR.png
+C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice NOT.png
+C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice OR.png
+C:\Users\gurbi\Desktop\App3\App3\bin\x86\Debug\Core\Assets\quiz\Tablice XOR.png
+C:\Users\gurbi\Desktop\App3\App3\obj\x86\Debug\Core\Assets\quiz\Tablice AND.png
+C:\Users\gurbi\Desktop\App3\App3\obj\x86\Debug\Core\Assets\quiz\Tablice NAND.png
+C:\Users\gurbi\Desktop\App3\App3\obj\x86\Debug\Core\Assets\quiz\Tablice NOR.png
+C:\Users\gurbi\Desktop\App3\App3\obj\x86\Debug\Core\Assets\quiz\Tablice NOT.png
+C:\Users\gurbi\Desktop\App3\App3\obj\x86\Debug\Core\Assets\quiz\Tablice OR.png
+C:\Users\gurbi\Desktop\App3\App3\obj\x86\Debug\Core\Assets\quiz\Tablice XOR.png

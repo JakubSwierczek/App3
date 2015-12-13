@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Users\gurbi\Desktop\App3\App3\obj\ARM\Release\ilc\intermediate\ILTransformed\App3.metadata"
+/gvmAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Users\gurbi\Desktop\App3\App3\obj\ARM\Release\ilc\intermediate\ILTransformed\App3.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Users\gurbi\Desktop\App3\App3\obj\ARM\Release\ilc\intermediate\ILTransformed\App3.ilexe"
+/out "C:\Users\gurbi\Desktop\App3\App3\obj\ARM\Release\ilc\intermediate\MDIL\App3.mdilexe"

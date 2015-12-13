@@ -41,5 +41,10 @@ namespace App3
         {
             Application.Current.Exit();
         }
+
+        private void quizButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(QUIZ));
+        }
     }
 }
